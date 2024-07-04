@@ -18,7 +18,7 @@ const PUERTO = 3000
 const conexion = mysql.createConnection(
     {
         //host:'srv1454.hstgr.io',
-        host: '82.197.82.7',
+        host: 'auth-db1454.hstgr.io',
         database:'u392032808_escolar',
         user:'u392032808_escolar',
         password:'S1st3m4s.24'
